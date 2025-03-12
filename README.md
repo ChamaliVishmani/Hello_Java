@@ -1,0 +1,1 @@
+- This is the repository for the medium article [Integrate Jenkins with GitHub for a simple Java application](https://chamali-vishmani.medium.com/integrate-jenkins-with-github-for-a-simple-java-application-c0859bc35183)
